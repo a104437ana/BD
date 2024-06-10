@@ -1,0 +1,64 @@
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.exe
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.deps.json
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.runtimeconfig.json
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.pdb
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.csproj.AssemblyReference.cache
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.Form1.resources
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.csproj.GenerateResource.cache
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.AssemblyInfoInputs.cache
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.AssemblyInfo.cs
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.csproj.CoreCompileInputs.cache
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\Detetive.8461FFAE.Up2Date
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\refint\DetetivesDoMinho.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.pdb
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.genruntimeconfig.cache
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\ref\DetetivesDoMinho.dll
+C:\Users\inesm\source\repos\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.Form2.resources
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.exe
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.deps.json
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.runtimeconfig.json
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\DetetivesDoMinho.pdb
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.csproj.AssemblyReference.cache
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.Form1.resources
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.Form2.resources
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.csproj.GenerateResource.cache
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.AssemblyInfoInputs.cache
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.AssemblyInfo.cs
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.csproj.CoreCompileInputs.cache
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\Detetive.8461FFAE.Up2Date
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\refint\DetetivesDoMinho.dll
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.pdb
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\DetetivesDoMinho.genruntimeconfig.cache
+C:\Users\inesm\OneDrive\Ambiente de Trabalho\DetetivesDoMinho\DetetivesDoMinho\obj\Debug\net8.0-windows\ref\DetetivesDoMinho.dll
